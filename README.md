@@ -2,6 +2,10 @@
 
 Welcome to the **Social Media Application** – a cutting-edge platform designed to connect people, share thoughts, and build communities. This application offers a seamless and engaging experience with modern features tailored for users' social networking needs.
 
+## Table of Contents
+1. [Features](#features)
+2. [Advantages](#advantages)
+
 ## 🚀 Features
 
 - **User Authentication** 🔒 – Secure sign-up, login, and profile management.
